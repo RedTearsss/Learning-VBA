@@ -34,7 +34,7 @@
 ### [Saving Documents as Web Pages](saving-documents-as-web-pages.md)
 ### [Formatting and VBA Codes for Headers and Footers](formatting-and-vba-codes-for-headers-and-footers.md)
 ### [Returning an Object from a Collection](returning-an-object-from-a-collection-excel.md)
-##Cells and Ranges
+## Cells and Ranges
 ### [Create an HTML File with a Table of Contents based on Cell Data](create-an-html-file-with-a-table-of-contents-based-on-cell-data.md)
 ### [Delete Duplicate Entries in a Range](delete-duplicate-entries-in-a-range.md)
 ### [Fill a Value Down into Blank Cells in a Column](fill-a-value-down-into-blank-cells-in-a-column.md)
@@ -58,7 +58,7 @@
 ### [Working with 3-D Ranges](working-with-3-d-ranges.md)
 ### [Working with the Active Cell](working-with-the-active-cell.md)
 ### [Cell Error Values](cell-error-values.md)
-##Controls, Dialog Boxes, and Forms
+## Controls, Dialog Boxes, and Forms
 ### [Add a Unique List of Values to a Combo Box](add-a-unique-list-of-values-to-a-combo-box.md)
 ### [Add Controls to a Document](add-controls-to-a-document.md)
 ### [Add Controls to a User Form](add-controls-to-a-user-form.md)
@@ -74,7 +74,7 @@
 ### [Displaying a Custom Dialog Box](displaying-a-custom-dialog-box.md)
 ### [Initializing Control Properties](initializing-control-properties.md)
 ### [Setting Control Properties](setting-control-properties.md)
-##Events, Worksheet Functions, and Shapes
+## Events, Worksheet Functions, and Shapes
 ### [Chart Object Events](chart-object-events.md)
 ### [Control and Dialog Box Events](control-and-dialog-box-events.md)
 ### [QueryTable Object Events](querytable-object-events.md)
@@ -88,14 +88,14 @@
 ### [Using Events with the Application Object](using-events-with-the-application-object.md)
 ### [Using Events with the QueryTable Object](using-events-with-the-querytable-object.md)
 ### [Invalid Procedure Name Error](invalid-procedure-name-error.md)
-##Working with Other Applications
+## Working with Other Applications
 ### [Controlling One Microsoft Office Application from Another](controlling-one-microsoft-office-application-from-another.md)
 ### [Exporting a Chart to a Word Document](exporting-a-chart-to-a-word-document.md)
 ### [Exporting a Range to a Table in a Word Document](exporting-a-range-to-a-table-in-a-word-document.md)
 ### [Exporting a Table to a Word Document](exporting-a-table-to-a-word-document.md)
 ### [Import Outlook Contacts to a Worksheet](import-outlook-contacts-to-a-worksheet.md)
 ### [Sending Email to a List of Recipients Using Excel and Outlook](sending-email-to-a-list-of-recipients-using-excel-and-outlook.md)
-##Sparklines
+## Sparklines
 ### [Animate a Sparkline](animate-a-sparkline.md)
 ### [Change the Color of the Horizontal Axis of a Sparkline](change-the-color-of-the-horizontal-axis-of-a-sparkline.md)
 ### [Find All the Sparklines on a Sheet](find-all-the-sparklines-on-a-sheet.md)
@@ -448,7 +448,7 @@
 ### [ProtectedViewWindowDeactivate Event](application-protectedviewwindowdeactivate-event-excel.md)
 ### [ProtectedViewWindowOpen Event](application-protectedviewwindowopen-event-excel.md)
 ### [ProtectedViewWindowResize Event](application-protectedviewwindowresize-event-excel.md)
-### [RemoteChanged Event](application-remotechanged-event-excel.md)
+### [RemoteChange Event](application-remotechange-event-excel.md)
 ### [SheetActivate Event](application-sheetactivate-event-excel.md)
 ### [SheetBeforeDelete Event](application-sheetbeforedelete-event-excel.md)
 ### [SheetBeforeDoubleClick Event](application-sheetbeforedoubleclick-event-excel.md)
