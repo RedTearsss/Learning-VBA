@@ -448,7 +448,6 @@
 ### [ProtectedViewWindowDeactivate Event](application-protectedviewwindowdeactivate-event-excel.md)
 ### [ProtectedViewWindowOpen Event](application-protectedviewwindowopen-event-excel.md)
 ### [ProtectedViewWindowResize Event](application-protectedviewwindowresize-event-excel.md)
-### [RemoteChange Event](application-remotechange-event-excel.md)
 ### [SheetActivate Event](application-sheetactivate-event-excel.md)
 ### [SheetBeforeDelete Event](application-sheetbeforedelete-event-excel.md)
 ### [SheetBeforeDoubleClick Event](application-sheetbeforedoubleclick-event-excel.md)
